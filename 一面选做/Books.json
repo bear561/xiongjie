@@ -1,0 +1,16 @@
+[
+ {
+  "id": 6,
+  "title": "6",
+  "author": "6",
+  "borrowed": false,
+  "borrower": ""
+ },
+ {
+  "id": 0,
+  "title": "j",
+  "author": "xiongjie",
+  "borrowed": true,
+  "borrower": "j"
+ }
+]
